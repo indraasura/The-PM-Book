@@ -75,5 +75,4 @@ Goal is to continually ask users questions when they sign up (chat bots, etc)
 ##### R - Retain paying customers - don't wait until someone has stopped using the product to introduce changes
 ##### E - Expand their usage - Upsell, or cross-sell (Upsell - upgrade plan, cross-sell - sell complimentary products)
 
-<a href="https://assets.ctfassets.net/xny2w179f4ki/4PQNPvvOxsGlGYYum4LIbM/13c80de059d4866837da972661f8cdaa/intercom-on-onboarding.pdf" target="_blank">Page 25. Example of CARE-based UX</a>
 
