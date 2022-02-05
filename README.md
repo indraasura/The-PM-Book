@@ -76,3 +76,35 @@ Goal is to continually ask users questions when they sign up (chat bots, etc)
 ##### E - Expand their usage - Upsell, or cross-sell (Upsell - upgrade plan, cross-sell - sell complimentary products)
 
 
+## Importance of stories in onboarding process
+Stories not only help to identify what "success" means to users, but also help to understand the reasons behind users' push and pull forces
+
+### Create narrative for user's journey
+
+#### Bad narratives focus on the product, Great narratives focus on the users' needs
+
+To build a compelling narrative, it is important to learn about customers' journey and jobs-to-be-done
+
+## 6 elements of an effective onboarding flow
+
+##### 1. A welcome message
+Make users feel valued and recognized
+
+##### 2. An identity for the product or company
+Build an understanding of how your users should consider the experience of interacting with your product
+
+##### 3. Problem(s) to be solved
+Creates strong connection with users because they see themselves reflected in it
+
+##### 4. At least one explicit value proposal
+The promise made by the company - sets clear expectation for what users will get out of the product
+
+##### 5. The mechanics of using the product
+Walks users through the product
+
+##### 6. At least one CTA
+Don't stop at explaining the product. Prompt the user to use it.
+
+## Hooking trial users
+
+Coming soon ...
