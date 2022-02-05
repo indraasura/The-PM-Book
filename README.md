@@ -109,4 +109,4 @@ Coming soon ...
 
 <hr/>
 
-###### Next Chapter: [The Golden Circle](Chapter_2_The_Golden_Circle.md)
+##### Next chapter: [The Golden Circle](Ch2.md)
