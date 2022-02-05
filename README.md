@@ -1,11 +1,10 @@
 # THE PM BOOK 
-
-##### Collection of bits and pieces of advice on how to be a better Product Manager
+Elevate products from a comprehensive list of chapters, collected in the form of notes from various sources
 
 ## Chapter - 1: The onboarding experience 
 
 ### Onboarding
-Onboarding customers is a process through which new customers get "acquire" necessary knowledge and skills to become a part of the application or service
+Onboarding customers is a process through which new customers "acquire" necessary knowledge and skills to become a part of the application or service
 
 ### 4 forces of onboarding
 
@@ -76,16 +75,15 @@ Goal is to continually ask users questions when they sign up (chat bots, etc)
 ##### E - Expand their usage - Upsell, or cross-sell (Upsell - upgrade plan, cross-sell - sell complimentary products)
 
 
-## Importance of stories in onboarding process
+### Importance of stories in onboarding process
 Stories not only help to identify what "success" means to users, but also help to understand the reasons behind users' push and pull forces
 
-### Create narrative for user's journey
+#### Create narrative for user's journey
 
-#### Bad narratives focus on the product, Great narratives focus on the users' needs
-
+##### Bad narratives focus on the product, Great narratives focus on the users' needs
 To build a compelling narrative, it is important to learn about customers' journey and jobs-to-be-done
 
-## 6 elements of an effective onboarding flow
+### 6 elements of an effective onboarding flow
 
 ##### 1. A welcome message
 Make users feel valued and recognized
@@ -105,6 +103,6 @@ Walks users through the product
 ##### 6. At least one CTA
 Don't stop at explaining the product. Prompt the user to use it.
 
-## Hooking trial users
+### Hooking trial users
 
 Coming soon ...
