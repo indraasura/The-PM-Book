@@ -106,3 +106,7 @@ Don't stop at explaining the product. Prompt the user to use it.
 ### Hooking trial users
 
 Coming soon ...
+
+<hr/>
+
+###### Next Chapter: [The Golden Circle](Chapter_2_The_Golden_Circle.md)
