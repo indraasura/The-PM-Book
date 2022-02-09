@@ -105,7 +105,33 @@ Don't stop at explaining the product. Prompt the user to use it.
 
 ### Hooking trial users
 
-Coming soon ...
+#### AIDA model for how customers buy
+
+A: A problem comes to the customer's ATTENTION
+I: This problem creates an INTEREST in buying a product or service that addresses this problem
+D: The customer DECIDES to buy the product
+A: The customer takes ACTION to complete the purchase
+
+With the coming of digitization, AIDA becomes AIAD
+###### Users take action of signing up, before making a decision 
+
+##### Steps to follow: 
+1. Focus on jobs customers want to do - The first use experience should help the user solve the problem for which he is using the product
+2. Show, rather than tell - users should experience the "aha" moment 
+3. Remove non-essential steps - Find the shortest path for users to experience the "aha" moment
+
+
+### Making the best first impression
+
+#### Getting to know customers' needs
+Answer the following questions: 
+
+1. What do you need to know about users to give them a great experience?
+2. What do users need to do in order to get value from your app?
+3. What are the costs and benefits of adding friction to your onboarding?
+4. How will you motivate users to complete onboarding?
+5. At what point of the users' lifecycle must the onbaording be complete?
+6. What actions must your user take regularly to drive growth and revenue?
 
 <hr/>
 
