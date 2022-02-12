@@ -133,6 +133,28 @@ Answer the following questions:
 5. At what point of the users' lifecycle must the onbaording be complete?
 6. What actions must your user take regularly to drive growth and revenue?
 
+### Onboarding never stops 
+Onboarding is a continuous process of guiding people towards successful experiences
+
+New users -> First use features -> Advanced use -> New feature -> Repeat 
+
+1. EFOT - Expose features over time 
+    Focus on increasing user interest with time and message impact -> What a feature is, What it does, and what it can the user do now with the feature
+2. Anticipate next questions for enganged users - don't spoon feed the users. Instead, center information around the users "intent" 
+3. Give help for lost and reluctant users
+4. Help users form useful habits - Focus on making the product an important part of their everyday life 
+5. Reativate dormant users 
+6. Educate users about new possibilities 
+
+### Know when to reset and when to optimize:
+
+1. Good performance, little change in product -> *Optimize*
+2. Good performance, lots of change -> *Redesign*
+3. Little performance, lots of change -> *Redesign*
+4. Little performane, little change -> *Redesign*
+
+Instead of starting from the profitable view of a customer and reverse engineering outcomes, start with the *outcomes a customer wants* while onboarding one
+
 <hr/>
 
 ##### Next chapter: [The Golden Circle](Ch2.md)
