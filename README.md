@@ -136,4 +136,6 @@ Instead of starting from the profitable view of a customer and reverse engineeri
 
 ###### Reference: [Intercom on Onboarding, Second Edition](https://assets.ctfassets.net/xny2w179f4ki/4PQNPvvOxsGlGYYum4LIbM/13c80de059d4866837da972661f8cdaa/intercom-on-onboarding.pdf)
 
+<hr/>
+
 ##### Next chapter: [The Golden Circle](Ch2.md)
