@@ -84,10 +84,10 @@ Don't stop at explaining the product. Prompt the user to use it.
 
 ### CARE - Customer Onboarding Framework
 
-*C* - Convert trialists to paying customers
-*A* - Activate newly paying customers by guiding them through features that will show them product value
-*R* - Retain paying customers - don't wait until someone has stopped using the product to introduce changes
-*E* - Expand their usage - Upsell, or cross-sell (Upsell - upgrade plan, cross-sell - sell complimentary products)
+* C - Convert trialists to paying customers
+* A - Activate newly paying customers by guiding them through features that will show them product value
+* R - Retain paying customers - don't wait until someone has stopped using the product to introduce changes
+* E - Expand their usage - Upsell, or cross-sell (Upsell - upgrade plan, cross-sell - sell complimentary products)
 
 #### Stories in onboarding
 Stories not only help to identify what "success" means to users, but also help to understand the reasons behind users' push and pull forces
