@@ -27,10 +27,7 @@ Fear of moving to a new environment
 ##### 1. Reassure/allow to skip onboarding tasks that are highly "public"
 ##### 2. Shorten path to success for complex products
 
-###### Note: The best type of onboarding is where users experience a _"successful moment"_
-
 ### The different generations of onboarding
-
 #### Onboarding 1.0: Helpful interfaces
 Included tooltips and menus 
 ##### Problem: Tooltips can't be effective when the focus on the product features and not on user needs
@@ -49,39 +46,11 @@ Goal is to continually ask users questions when they sign up (chat bots, etc)
 * Users not only set up their account, but also learn to use the app
 
 ### Onboarding customers for success
-
 1. Understand the different jobs your product is hired for
 2. Understand what success looks like for each job
 3. Design paths that guides users through the features that help them achieve success
 4. Communicate with users to help them get there
 5. Have an early warning system for new users
-
-### CARE - Customer Onboarding Framework
-
-#### 3 components of successful onboarding
-
-##### UI design patterns
-*Goal:* guide users through a series of meaningful steps(in whatever suits them the best - gamification, progressive disclosure, product tours, audio guidance, one-time tutorials, etc) that helps them achieve their goal
-##### Contextual content
-*Goal:* The quality of WHERE and HOW a customer encounters content is as important as the content itself.
-##### Contextual communication
-*Goal:* Contextual in-app messages are a powerful driving force for onboaring progress but should only be used as a supporting function and should not be over-relied on
-
-#### CARE model of onboarding
-
-##### C - Convert trialists to paying customers
-##### A - Activate newly paying customers by guiding them through features that will show them product value
-##### R - Retain paying customers - don't wait until someone has stopped using the product to introduce changes
-##### E - Expand their usage - Upsell, or cross-sell (Upsell - upgrade plan, cross-sell - sell complimentary products)
-
-
-### Importance of stories in onboarding process
-Stories not only help to identify what "success" means to users, but also help to understand the reasons behind users' push and pull forces
-
-#### Create narrative for user's journey
-
-##### Bad narratives focus on the product, Great narratives focus on the users' needs
-To build a compelling narrative, it is important to learn about customers' journey and jobs-to-be-done
 
 ### 6 elements of an effective onboarding flow
 
@@ -103,27 +72,35 @@ Walks users through the product
 ##### 6. At least one CTA
 Don't stop at explaining the product. Prompt the user to use it.
 
+### 3 components of successful onboarding
+
+##### UI design patterns
+*Goal:* guide users through a series of meaningful steps(in whatever suits them the best - gamification, progressive disclosure, product tours, audio guidance, one-time tutorials, etc) that helps them achieve their goal
+##### Contextual content
+*Goal:* The quality of WHERE and HOW a customer encounters content is as important as the content itself.
+##### Contextual communication
+*Goal:* Contextual in-app messages are a powerful driving force for onboaring progress but should only be used as a supporting function and should not be over-relied on
+
+
+### CARE - Customer Onboarding Framework
+
+*C* - Convert trialists to paying customers
+*A* - Activate newly paying customers by guiding them through features that will show them product value
+*R* - Retain paying customers - don't wait until someone has stopped using the product to introduce changes
+*E* - Expand their usage - Upsell, or cross-sell (Upsell - upgrade plan, cross-sell - sell complimentary products)
+
+#### Stories in onboarding
+Stories not only help to identify what "success" means to users, but also help to understand the reasons behind users' push and pull forces
+*Bad narratives focus on the product, Great narratives focus on the users' needs*
+To build a compelling narrative, it is important to learn about customers' journey and jobs-to-be-done
+
 ### Hooking trial users
 
-#### AIDA model for how customers buy
-
-A: A problem comes to the customer's ATTENTION
-I: This problem creates an INTEREST in buying a product or service that addresses this problem
-D: The customer DECIDES to buy the product
-A: The customer takes ACTION to complete the purchase
-
-With the coming of digitization, AIDA becomes AIAD
-###### Users take action of signing up, before making a decision 
-
-##### Steps to follow: 
 1. Focus on jobs customers want to do - The first use experience should help the user solve the problem for which he is using the product
 2. Show, rather than tell - users should experience the "aha" moment 
 3. Remove non-essential steps - Find the shortest path for users to experience the "aha" moment
 
-
-### Making the best first impression
-
-#### Getting to know customers' needs
+### Getting to know customers' needs
 Answer the following questions: 
 
 1. What do you need to know about users to give them a great experience?
@@ -156,5 +133,7 @@ New users -> First use features -> Advanced use -> New feature -> Repeat
 Instead of starting from the profitable view of a customer and reverse engineering outcomes, start with the *outcomes a customer wants* while onboarding one
 
 <hr/>
+
+###### Reference: [Intercom on Onboarding, Second Edition](https://assets.ctfassets.net/xny2w179f4ki/4PQNPvvOxsGlGYYum4LIbM/13c80de059d4866837da972661f8cdaa/intercom-on-onboarding.pdf)
 
 ##### Next chapter: [The Golden Circle](Ch2.md)
