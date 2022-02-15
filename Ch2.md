@@ -1,5 +1,5 @@
 ## Chapter - 2: The golden circle
-The golden is an idealogy that focuses on the beliefs that drive purposes, develops systems and ultimately generates desired outcomes
+The golden circle is an idealogy that focuses on the beliefs that drive purposes, develops systems and ultimately generates desired outcomes
 
 Any idea, person or organization is made up of What(Outcomes/Objectives), How (Processes/Systems) and Why (Beliefs/Identities)
 
@@ -42,7 +42,7 @@ These are usually the people who go for "trust-worthy" products and follow word-
 
 The golden circle shines (pun not intended) the best when it comes to roping in the early adopters who tend to buy products and try them based on their "gut feeling".
 
-Gut feelings can be resonated and attracted by synchronizing and empathizing with the users and highlighting the beliefs behind an idea/product rather than the feature-list 
+Gut feelings can be amplified and attracted by synchronizing and empathizing with the users and highlighting the beliefs behind an idea/product rather than the feature-list 
 
 ###### The golden circle is a practice, not a solution. You'll find many fundamentals and principles that use components that seem to be built around or similar to the golden circle like the five why principle or the jobs-to-be-done principle, or even design thinking which emphasises on an initial empathy with the users to identify the problem
 
