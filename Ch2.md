@@ -48,5 +48,9 @@ Gut feelings can be amplified and attracted by synchronizing and empathizing wit
 
 <hr/>
 
+###### Reference: [How great leaders inspire action by Simon Sinek](https://www.youtube.com/watch?v=qp0HIF3SfI4)
+
+<hr/>
+
 ##### Previous chapter: [The Onboarding Experience](README.md)
 ##### Next chapter: [Design Thinking](Ch2.md)
