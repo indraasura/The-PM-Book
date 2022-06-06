@@ -53,4 +53,4 @@ Gut feelings can be amplified and attracted by synchronizing and empathizing wit
 <hr/>
 
 ##### Previous chapter: [The Onboarding Experience](README.md)
-##### Next chapter: [Design Thinking](Ch2.md)
+##### Next chapter: [Design Thinking](Ch3.md)
