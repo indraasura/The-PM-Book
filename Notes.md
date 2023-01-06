@@ -30,3 +30,10 @@ Caution: Don't let bias creep in
 * What/who are their influences?
 
 #### Blockchain in product
+Root of blockchain: 
+1. Diffusion of power across society 
+2. Distribution around value 
+
+##### Smart contracts and tokens 
+With smart contracts and tokens, you can set exchange rules that sort themselves out. Participation in these contracts is regulated through tokens 
+
