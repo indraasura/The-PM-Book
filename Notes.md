@@ -37,3 +37,14 @@ Root of blockchain:
 ##### Smart contracts and tokens 
 With smart contracts and tokens, you can set exchange rules that sort themselves out. Participation in these contracts is regulated through tokens 
 
+##### Problems with blockchain 
+* Hard to establish identities - problems with anonimity and multiple profiles
+* Difficult to scale - complex user interfaces
+* Governance is challending - Access and information sharing is a chaotic process
+* Insufficient success case studies that show blockchain in action 
+
+Tokens and smart contracts are great if good and bad behavior and their rewards and punishments are defined. 
+A good product should have a UI such that people don't even know that they are using blockchains 
+
+
+
