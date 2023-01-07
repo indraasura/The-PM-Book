@@ -47,3 +47,5 @@ In conclusion, Design Thinking, when employed with other processes like 5 Whys, 
 <hr/>
 
 ##### Previous chapter: [The Golden Circle](Ch2.md)
+
+##### Next chapter: [Product Psychology](Ch4.md)
